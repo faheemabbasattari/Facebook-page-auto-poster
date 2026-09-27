@@ -149,7 +149,23 @@ testFacebookPost()
 - Facebook Pages
 - Apps Script Script Properties
 - Apps Script Time-based Triggers
+📌 Portfolio Implementation
+Built to demonstrate practical integration of voice AI, webhooks, Google Apps Script, and spreadsheet-based backend automation.
 
+A sanitized n8n workflow file is included for portfolio demonstration.
+
+👉 View / Download App Script Code
+
+📞 Contact Me:
+Faheem Abbas
+
+AI Automation Specialist | n8n Expert | AI Agents | AI-Powered Business Automation | Lead Generation | API Integrations | Calling Agents
+
+For custom implementation or commercial use, please Contact on:
+
+WhatsApp LinkedIn Gmail
+
+#AI #AIAutomation #n8n #RAG #airtable #Pinecone #WhatsAppAutomation #Qdrant #AIEngineering #CallingAgents #bluemoonways
 ## Author
 
 **Faheem Abbas**
