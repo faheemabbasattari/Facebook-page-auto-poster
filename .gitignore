@@ -1,0 +1,24 @@
+# Secrets and credentials
+*.env
+.env
+.env.*
+credentials.json
+service-account*.json
+token.json
+secrets.json
+
+# Google Apps Script local files
+.clasp.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Logs / temporary files
+*.log
+tmp/
+temp/
